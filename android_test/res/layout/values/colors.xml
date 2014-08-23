@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="login_bg">#BE3636</color>
+    <color name="et_hint_color">#C8C8C8</color>
+    <color name="et_text_color">#3B3B3B</color>
+    <color name="et_cursor_color">#5f81f3</color>
+    <color name="register_bg">#F6F6F6</color>
+    <color name="divider_color">#DCDCDC</color>
+    <color name="light_black">#3B3B3B</color>
+    <color name="light_blue">#3476c0</color>
+    <color name="list_pname_color">#1e1e1e</color>
+    <color name="circle_red">#be3636</color>
+    <color name="post_divider">#dcdcdc</color>
+    <color name="light_grey">#8b8b8b</color>
+    <color name="post_send_color">#5ea5d7</color>
+    <color name="nav_normal_blue">#24253f</color>
+    <color name="nav_divider">#33385d</color>
+    <color name="gesture_path_color">#e76b6b</color>
+    <color name="transparent">#00FFFFFF</color>
+    
+    <color name="companylist_focused">#A7D7FF</color>
+    <color name="title_color">#FFFFFF</color>
+    <color name="title_bg">#3068B3</color>
+    <color name="commit_on">#CC000000</color>
+    <color name="dark_bg">#DCDCDC</color>
+    <color name="orange">#FF7200</color>
+    <color name="transpant">#00FFFFFF</color>
+    <color name="normal_name_color">#969696</color>
+    <drawable name="nav_text_color">#969696</drawable>
+    <drawable name="nav_text_on_color">#3068B3</drawable>
+    <color name="text_focuse_color">#3068B3</color>
+    <drawable name="grey">#e6e6e6</drawable>
+    <color name="menu_divider">#717374</color>
+    <color name="menu_item_normal">#3a3c3e</color>
+    <color name="menu_item_on">#4e5051</color>
+    <color name="holo_red_light">#ffff4488</color>
+    
+    <color name="buyer1_5">#4fc4f6</color>
+    <color name="buyer5_10">#fcb150</color>
+    <color name="buyer10_20">#e64c65</color>
+    <color name="buyer20_50">#11a8ab</color>
+    <color name="buyer50">#1173ab</color>
+
+</resources>

@@ -1,0 +1,21 @@
+<resources>
+
+    <string name="app_name">员工宝</string>
+    <string name="my_invest">我要投资</string>
+    <string name="register_notice">注册帐号请登录网页版\nwww.yuangongbao.com</string>
+    
+    <string name="loading_data">努力加载中...</string>
+    <string name="system_exception">请求异常</string>
+    <string name="login_success">登录成功</string>
+    <string name="mobile_empty">手机号不能为空</string>
+    <string name="pwd_empty">密码不能为空</string>
+    <string name="logining">正在登录...</string>
+    <string name="verify_empty">验证码不能为空</string>
+    
+    <string name="pull_to_refresh_pull_label">下拉可以刷新...</string>
+    <string name="pull_to_refresh_release_label">松开可以刷新...</string>
+    <string name="pull_to_refresh_formatdate">更新于：MM-dd HH:mm</string>
+    <string name="xlistview_footer_hint_normal">查看更多</string>
+    <string name="xlistview_footer_hint_ready">松开载入更多</string>
+
+</resources>
